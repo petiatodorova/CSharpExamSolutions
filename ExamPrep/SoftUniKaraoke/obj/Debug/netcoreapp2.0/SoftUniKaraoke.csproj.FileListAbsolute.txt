@@ -1,0 +1,11 @@
+C:\Users\John\Desktop\GitRepo\ExamSolutionsCSharp\ExamPrep\ExamPrep\SoftUniKaraoke\bin\Debug\netcoreapp2.0\SoftUniKaraoke.deps.json
+C:\Users\John\Desktop\GitRepo\ExamSolutionsCSharp\ExamPrep\ExamPrep\SoftUniKaraoke\bin\Debug\netcoreapp2.0\SoftUniKaraoke.runtimeconfig.json
+C:\Users\John\Desktop\GitRepo\ExamSolutionsCSharp\ExamPrep\ExamPrep\SoftUniKaraoke\bin\Debug\netcoreapp2.0\SoftUniKaraoke.runtimeconfig.dev.json
+C:\Users\John\Desktop\GitRepo\ExamSolutionsCSharp\ExamPrep\ExamPrep\SoftUniKaraoke\bin\Debug\netcoreapp2.0\SoftUniKaraoke.dll
+C:\Users\John\Desktop\GitRepo\ExamSolutionsCSharp\ExamPrep\ExamPrep\SoftUniKaraoke\bin\Debug\netcoreapp2.0\SoftUniKaraoke.pdb
+C:\Users\John\Desktop\GitRepo\ExamSolutionsCSharp\ExamPrep\ExamPrep\SoftUniKaraoke\obj\Debug\netcoreapp2.0\SoftUniKaraoke.csprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\GitRepo\ExamSolutionsCSharp\ExamPrep\ExamPrep\SoftUniKaraoke\obj\Debug\netcoreapp2.0\SoftUniKaraoke.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\GitRepo\ExamSolutionsCSharp\ExamPrep\ExamPrep\SoftUniKaraoke\obj\Debug\netcoreapp2.0\SoftUniKaraoke.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\GitRepo\ExamSolutionsCSharp\ExamPrep\ExamPrep\SoftUniKaraoke\obj\Debug\netcoreapp2.0\SoftUniKaraoke.AssemblyInfo.cs
+C:\Users\John\Desktop\GitRepo\ExamSolutionsCSharp\ExamPrep\ExamPrep\SoftUniKaraoke\obj\Debug\netcoreapp2.0\SoftUniKaraoke.dll
+C:\Users\John\Desktop\GitRepo\ExamSolutionsCSharp\ExamPrep\ExamPrep\SoftUniKaraoke\obj\Debug\netcoreapp2.0\SoftUniKaraoke.pdb

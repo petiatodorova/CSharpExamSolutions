@@ -1,0 +1,11 @@
+C:\Users\John\Desktop\GitRepo\ExamSolutionsCSharp\ExamPrep\ExamPrep\WinningTiketWithRegex\obj\Debug\netcoreapp2.0\WinningTiketWithRegex.csprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\GitRepo\ExamSolutionsCSharp\ExamPrep\ExamPrep\WinningTiketWithRegex\obj\Debug\netcoreapp2.0\WinningTiketWithRegex.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\GitRepo\ExamSolutionsCSharp\ExamPrep\ExamPrep\WinningTiketWithRegex\obj\Debug\netcoreapp2.0\WinningTiketWithRegex.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\GitRepo\ExamSolutionsCSharp\ExamPrep\ExamPrep\WinningTiketWithRegex\obj\Debug\netcoreapp2.0\WinningTiketWithRegex.AssemblyInfo.cs
+C:\Users\John\Desktop\GitRepo\ExamSolutionsCSharp\ExamPrep\ExamPrep\WinningTiketWithRegex\bin\Debug\netcoreapp2.0\WinningTiketWithRegex.deps.json
+C:\Users\John\Desktop\GitRepo\ExamSolutionsCSharp\ExamPrep\ExamPrep\WinningTiketWithRegex\bin\Debug\netcoreapp2.0\WinningTiketWithRegex.runtimeconfig.json
+C:\Users\John\Desktop\GitRepo\ExamSolutionsCSharp\ExamPrep\ExamPrep\WinningTiketWithRegex\bin\Debug\netcoreapp2.0\WinningTiketWithRegex.runtimeconfig.dev.json
+C:\Users\John\Desktop\GitRepo\ExamSolutionsCSharp\ExamPrep\ExamPrep\WinningTiketWithRegex\bin\Debug\netcoreapp2.0\WinningTiketWithRegex.dll
+C:\Users\John\Desktop\GitRepo\ExamSolutionsCSharp\ExamPrep\ExamPrep\WinningTiketWithRegex\bin\Debug\netcoreapp2.0\WinningTiketWithRegex.pdb
+C:\Users\John\Desktop\GitRepo\ExamSolutionsCSharp\ExamPrep\ExamPrep\WinningTiketWithRegex\obj\Debug\netcoreapp2.0\WinningTiketWithRegex.dll
+C:\Users\John\Desktop\GitRepo\ExamSolutionsCSharp\ExamPrep\ExamPrep\WinningTiketWithRegex\obj\Debug\netcoreapp2.0\WinningTiketWithRegex.pdb
