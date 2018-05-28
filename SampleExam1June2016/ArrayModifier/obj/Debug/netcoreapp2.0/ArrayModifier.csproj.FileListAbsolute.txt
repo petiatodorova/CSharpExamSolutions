@@ -1,0 +1,10 @@
+C:\Users\John\Desktop\GitRepo\CSharpExamSolutions\SampleExamOneJune2016\SampleExam1June2016\ArrayModifier\bin\Debug\netcoreapp2.0\ArrayModifier.deps.json
+C:\Users\John\Desktop\GitRepo\CSharpExamSolutions\SampleExamOneJune2016\SampleExam1June2016\ArrayModifier\bin\Debug\netcoreapp2.0\ArrayModifier.runtimeconfig.json
+C:\Users\John\Desktop\GitRepo\CSharpExamSolutions\SampleExamOneJune2016\SampleExam1June2016\ArrayModifier\bin\Debug\netcoreapp2.0\ArrayModifier.runtimeconfig.dev.json
+C:\Users\John\Desktop\GitRepo\CSharpExamSolutions\SampleExamOneJune2016\SampleExam1June2016\ArrayModifier\bin\Debug\netcoreapp2.0\ArrayModifier.dll
+C:\Users\John\Desktop\GitRepo\CSharpExamSolutions\SampleExamOneJune2016\SampleExam1June2016\ArrayModifier\bin\Debug\netcoreapp2.0\ArrayModifier.pdb
+C:\Users\John\Desktop\GitRepo\CSharpExamSolutions\SampleExamOneJune2016\SampleExam1June2016\ArrayModifier\obj\Debug\netcoreapp2.0\ArrayModifier.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\GitRepo\CSharpExamSolutions\SampleExamOneJune2016\SampleExam1June2016\ArrayModifier\obj\Debug\netcoreapp2.0\ArrayModifier.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\GitRepo\CSharpExamSolutions\SampleExamOneJune2016\SampleExam1June2016\ArrayModifier\obj\Debug\netcoreapp2.0\ArrayModifier.AssemblyInfo.cs
+C:\Users\John\Desktop\GitRepo\CSharpExamSolutions\SampleExamOneJune2016\SampleExam1June2016\ArrayModifier\obj\Debug\netcoreapp2.0\ArrayModifier.dll
+C:\Users\John\Desktop\GitRepo\CSharpExamSolutions\SampleExamOneJune2016\SampleExam1June2016\ArrayModifier\obj\Debug\netcoreapp2.0\ArrayModifier.pdb

@@ -1,0 +1,10 @@
+C:\Users\John\Desktop\GitRepo\CSharpExamSolutions\SampleExamOneJune2016\SampleExam1June2016\TargetMultiplier\bin\Debug\netcoreapp2.0\TargetMultiplier.deps.json
+C:\Users\John\Desktop\GitRepo\CSharpExamSolutions\SampleExamOneJune2016\SampleExam1June2016\TargetMultiplier\bin\Debug\netcoreapp2.0\TargetMultiplier.runtimeconfig.json
+C:\Users\John\Desktop\GitRepo\CSharpExamSolutions\SampleExamOneJune2016\SampleExam1June2016\TargetMultiplier\bin\Debug\netcoreapp2.0\TargetMultiplier.runtimeconfig.dev.json
+C:\Users\John\Desktop\GitRepo\CSharpExamSolutions\SampleExamOneJune2016\SampleExam1June2016\TargetMultiplier\bin\Debug\netcoreapp2.0\TargetMultiplier.dll
+C:\Users\John\Desktop\GitRepo\CSharpExamSolutions\SampleExamOneJune2016\SampleExam1June2016\TargetMultiplier\bin\Debug\netcoreapp2.0\TargetMultiplier.pdb
+C:\Users\John\Desktop\GitRepo\CSharpExamSolutions\SampleExamOneJune2016\SampleExam1June2016\TargetMultiplier\obj\Debug\netcoreapp2.0\TargetMultiplier.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\GitRepo\CSharpExamSolutions\SampleExamOneJune2016\SampleExam1June2016\TargetMultiplier\obj\Debug\netcoreapp2.0\TargetMultiplier.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\GitRepo\CSharpExamSolutions\SampleExamOneJune2016\SampleExam1June2016\TargetMultiplier\obj\Debug\netcoreapp2.0\TargetMultiplier.AssemblyInfo.cs
+C:\Users\John\Desktop\GitRepo\CSharpExamSolutions\SampleExamOneJune2016\SampleExam1June2016\TargetMultiplier\obj\Debug\netcoreapp2.0\TargetMultiplier.dll
+C:\Users\John\Desktop\GitRepo\CSharpExamSolutions\SampleExamOneJune2016\SampleExam1June2016\TargetMultiplier\obj\Debug\netcoreapp2.0\TargetMultiplier.pdb
