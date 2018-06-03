@@ -140,3 +140,62 @@ Top 3 scored goals:
 - DENMARK -> 4
 - BULGARIA -> 3
 
+-----------------------------------------------------------------------------------
+
+# Problem 4. Trifon’s Quest
+Our hero Trifon was sent on a quest. You are given his health and the map (as a rectangle matrix) where he will travel. Trifon moves one cell at a time and the quests advances with 1 turn (first operate with health points then increase the turns). Print the outcome of the quest if it is successful or not. A quest is successful if Trifon goes thru all cells on the map and has health above 0.
+There are different obstacles on his way.
+Fight (F) – the hero loses {current number of turns} / 2 of his health points
+Heal (H) – the hero restores {current number of turns} / 3 of his health points
+Trap (T) – the hero must wait 2 turns (the quest will finish 2 turns later)
+Empty cell (E) – nothing happens here just game advances with 1 turn.
+* NOTE: The division of the turns must be integer division. For example: 5 / 2 = 2.
+The hero always starts his journey in the top left corner (the cell with coordinates [0,0]). And moves as it’s shown on the picture.
+Input / Constrains
+On the first line you will receive the staring health points. Integer numbers in range [0… 231]
+On the second line – dimensions of the map in format: “{Rows} {Cols}”
+On the next {Rows} lines -> the map for the journey. Map will contain only the symbols: F, H, T, E
+Output
+In case the player successfully finishes the game print:
+Quest completed!
+Health: {Hero’s current health}
+Turns: {Total number of turns for the quest}
+In case the player did not succeed in completing the quest print:
+Died at: [{row}, {col}]
+Where row and col are the coordinates of the cell where the health of the hero becomes ≤ 0.
+Examples
+Input
+Output
+
+Input
+Output
+
+Input
+Output
+10
+4 4
+FFFF
+HHHH
+EEEE
+EEEE
+Quest completed!
+Health: 5
+Turns: 16
+
+8
+4 3
+HHF
+FHH
+EFT
+HHT
+Quest completed!
+Health: 11
+Turns: 16
+
+50
+4 5
+TTFFF
+EHHFF
+THTFF
+EHTTT
+Died at: [1, 4]
