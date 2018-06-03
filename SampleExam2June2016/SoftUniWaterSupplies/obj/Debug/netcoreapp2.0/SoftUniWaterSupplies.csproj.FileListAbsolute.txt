@@ -1,0 +1,11 @@
+C:\Users\John\Desktop\Exercises\ExamPrep2June2016\SoftUniWaterSupplies\bin\Debug\netcoreapp2.0\SoftUniWaterSupplies.deps.json
+C:\Users\John\Desktop\Exercises\ExamPrep2June2016\SoftUniWaterSupplies\bin\Debug\netcoreapp2.0\SoftUniWaterSupplies.runtimeconfig.json
+C:\Users\John\Desktop\Exercises\ExamPrep2June2016\SoftUniWaterSupplies\bin\Debug\netcoreapp2.0\SoftUniWaterSupplies.runtimeconfig.dev.json
+C:\Users\John\Desktop\Exercises\ExamPrep2June2016\SoftUniWaterSupplies\bin\Debug\netcoreapp2.0\SoftUniWaterSupplies.dll
+C:\Users\John\Desktop\Exercises\ExamPrep2June2016\SoftUniWaterSupplies\bin\Debug\netcoreapp2.0\SoftUniWaterSupplies.pdb
+C:\Users\John\Desktop\Exercises\ExamPrep2June2016\SoftUniWaterSupplies\obj\Debug\netcoreapp2.0\SoftUniWaterSupplies.csprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\Exercises\ExamPrep2June2016\SoftUniWaterSupplies\obj\Debug\netcoreapp2.0\SoftUniWaterSupplies.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\Exercises\ExamPrep2June2016\SoftUniWaterSupplies\obj\Debug\netcoreapp2.0\SoftUniWaterSupplies.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\Exercises\ExamPrep2June2016\SoftUniWaterSupplies\obj\Debug\netcoreapp2.0\SoftUniWaterSupplies.AssemblyInfo.cs
+C:\Users\John\Desktop\Exercises\ExamPrep2June2016\SoftUniWaterSupplies\obj\Debug\netcoreapp2.0\SoftUniWaterSupplies.dll
+C:\Users\John\Desktop\Exercises\ExamPrep2June2016\SoftUniWaterSupplies\obj\Debug\netcoreapp2.0\SoftUniWaterSupplies.pdb

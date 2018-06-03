@@ -1,0 +1,11 @@
+C:\Users\John\Desktop\Exercises\ExamPrep2June2016\SoftUniCoffeeSupplies\obj\Debug\netcoreapp2.0\SoftUniCoffeeSupplies.csprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\Exercises\ExamPrep2June2016\SoftUniCoffeeSupplies\obj\Debug\netcoreapp2.0\SoftUniCoffeeSupplies.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\Exercises\ExamPrep2June2016\SoftUniCoffeeSupplies\obj\Debug\netcoreapp2.0\SoftUniCoffeeSupplies.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\Exercises\ExamPrep2June2016\SoftUniCoffeeSupplies\obj\Debug\netcoreapp2.0\SoftUniCoffeeSupplies.AssemblyInfo.cs
+C:\Users\John\Desktop\Exercises\ExamPrep2June2016\SoftUniCoffeeSupplies\bin\Debug\netcoreapp2.0\SoftUniCoffeeSupplies.deps.json
+C:\Users\John\Desktop\Exercises\ExamPrep2June2016\SoftUniCoffeeSupplies\bin\Debug\netcoreapp2.0\SoftUniCoffeeSupplies.runtimeconfig.json
+C:\Users\John\Desktop\Exercises\ExamPrep2June2016\SoftUniCoffeeSupplies\bin\Debug\netcoreapp2.0\SoftUniCoffeeSupplies.runtimeconfig.dev.json
+C:\Users\John\Desktop\Exercises\ExamPrep2June2016\SoftUniCoffeeSupplies\bin\Debug\netcoreapp2.0\SoftUniCoffeeSupplies.dll
+C:\Users\John\Desktop\Exercises\ExamPrep2June2016\SoftUniCoffeeSupplies\bin\Debug\netcoreapp2.0\SoftUniCoffeeSupplies.pdb
+C:\Users\John\Desktop\Exercises\ExamPrep2June2016\SoftUniCoffeeSupplies\obj\Debug\netcoreapp2.0\SoftUniCoffeeSupplies.dll
+C:\Users\John\Desktop\Exercises\ExamPrep2June2016\SoftUniCoffeeSupplies\obj\Debug\netcoreapp2.0\SoftUniCoffeeSupplies.pdb
