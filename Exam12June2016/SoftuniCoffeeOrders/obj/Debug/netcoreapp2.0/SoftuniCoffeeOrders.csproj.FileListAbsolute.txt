@@ -1,0 +1,11 @@
+C:\Users\John\Desktop\Exercises\Exam12June2016\SoftuniCoffeeOrders\bin\Debug\netcoreapp2.0\SoftuniCoffeeOrders.deps.json
+C:\Users\John\Desktop\Exercises\Exam12June2016\SoftuniCoffeeOrders\bin\Debug\netcoreapp2.0\SoftuniCoffeeOrders.runtimeconfig.json
+C:\Users\John\Desktop\Exercises\Exam12June2016\SoftuniCoffeeOrders\bin\Debug\netcoreapp2.0\SoftuniCoffeeOrders.runtimeconfig.dev.json
+C:\Users\John\Desktop\Exercises\Exam12June2016\SoftuniCoffeeOrders\bin\Debug\netcoreapp2.0\SoftuniCoffeeOrders.dll
+C:\Users\John\Desktop\Exercises\Exam12June2016\SoftuniCoffeeOrders\bin\Debug\netcoreapp2.0\SoftuniCoffeeOrders.pdb
+C:\Users\John\Desktop\Exercises\Exam12June2016\SoftuniCoffeeOrders\obj\Debug\netcoreapp2.0\SoftuniCoffeeOrders.csprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\Exercises\Exam12June2016\SoftuniCoffeeOrders\obj\Debug\netcoreapp2.0\SoftuniCoffeeOrders.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\Exercises\Exam12June2016\SoftuniCoffeeOrders\obj\Debug\netcoreapp2.0\SoftuniCoffeeOrders.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\Exercises\Exam12June2016\SoftuniCoffeeOrders\obj\Debug\netcoreapp2.0\SoftuniCoffeeOrders.AssemblyInfo.cs
+C:\Users\John\Desktop\Exercises\Exam12June2016\SoftuniCoffeeOrders\obj\Debug\netcoreapp2.0\SoftuniCoffeeOrders.dll
+C:\Users\John\Desktop\Exercises\Exam12June2016\SoftuniCoffeeOrders\obj\Debug\netcoreapp2.0\SoftuniCoffeeOrders.pdb
