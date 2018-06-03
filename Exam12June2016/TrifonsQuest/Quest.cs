@@ -50,9 +50,7 @@ namespace TrifonsQuest
                         return;
                     }
                     countTurns++;
-
                 }
-
             }
 
             Console.WriteLine("Quest completed!");
