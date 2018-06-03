@@ -671,11 +671,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\John\\Desktop\\GitRepo\\CSharpExamSolutions\\Exam12June2016\\FootballStandings1\\FootballStandings1.csproj",
-      "projectName": "FootballStandings1",
-      "projectPath": "C:\\Users\\John\\Desktop\\GitRepo\\CSharpExamSolutions\\Exam12June2016\\FootballStandings1\\FootballStandings1.csproj",
+      "projectUniqueName": "C:\\Users\\John\\Desktop\\GitRepo\\CSharpExamSolutions\\Exam12June2016\\TrifonsQuest\\TrifonsQuest.csproj",
+      "projectName": "TrifonsQuest",
+      "projectPath": "C:\\Users\\John\\Desktop\\GitRepo\\CSharpExamSolutions\\Exam12June2016\\TrifonsQuest\\TrifonsQuest.csproj",
       "packagesPath": "C:\\Users\\John\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\John\\Desktop\\GitRepo\\CSharpExamSolutions\\Exam12June2016\\FootballStandings1\\obj\\",
+      "outputPath": "C:\\Users\\John\\Desktop\\GitRepo\\CSharpExamSolutions\\Exam12June2016\\TrifonsQuest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
