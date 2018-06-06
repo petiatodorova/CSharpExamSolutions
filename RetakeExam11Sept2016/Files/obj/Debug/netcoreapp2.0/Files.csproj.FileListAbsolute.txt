@@ -1,0 +1,10 @@
+C:\Users\John\Desktop\Exercises\RetakeExam11Sept2016\Files\bin\Debug\netcoreapp2.0\Files.deps.json
+C:\Users\John\Desktop\Exercises\RetakeExam11Sept2016\Files\bin\Debug\netcoreapp2.0\Files.runtimeconfig.json
+C:\Users\John\Desktop\Exercises\RetakeExam11Sept2016\Files\bin\Debug\netcoreapp2.0\Files.runtimeconfig.dev.json
+C:\Users\John\Desktop\Exercises\RetakeExam11Sept2016\Files\bin\Debug\netcoreapp2.0\Files.dll
+C:\Users\John\Desktop\Exercises\RetakeExam11Sept2016\Files\bin\Debug\netcoreapp2.0\Files.pdb
+C:\Users\John\Desktop\Exercises\RetakeExam11Sept2016\Files\obj\Debug\netcoreapp2.0\Files.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\Exercises\RetakeExam11Sept2016\Files\obj\Debug\netcoreapp2.0\Files.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\Exercises\RetakeExam11Sept2016\Files\obj\Debug\netcoreapp2.0\Files.AssemblyInfo.cs
+C:\Users\John\Desktop\Exercises\RetakeExam11Sept2016\Files\obj\Debug\netcoreapp2.0\Files.dll
+C:\Users\John\Desktop\Exercises\RetakeExam11Sept2016\Files\obj\Debug\netcoreapp2.0\Files.pdb
