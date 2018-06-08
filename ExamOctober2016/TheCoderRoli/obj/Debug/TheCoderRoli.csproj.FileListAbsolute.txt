@@ -1,0 +1,7 @@
+C:\Users\John\Desktop\Exercises\ExamOctober2016\TheCoderRoli\obj\Debug\TheCoderRoli.csprojAssemblyReference.cache
+C:\Users\John\Desktop\Exercises\ExamOctober2016\TheCoderRoli\obj\Debug\TheCoderRoli.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\Exercises\ExamOctober2016\TheCoderRoli\bin\Debug\TheCoderRoli.exe.config
+C:\Users\John\Desktop\Exercises\ExamOctober2016\TheCoderRoli\bin\Debug\TheCoderRoli.exe
+C:\Users\John\Desktop\Exercises\ExamOctober2016\TheCoderRoli\bin\Debug\TheCoderRoli.pdb
+C:\Users\John\Desktop\Exercises\ExamOctober2016\TheCoderRoli\obj\Debug\TheCoderRoli.exe
+C:\Users\John\Desktop\Exercises\ExamOctober2016\TheCoderRoli\obj\Debug\TheCoderRoli.pdb
